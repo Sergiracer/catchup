@@ -1,6 +1,6 @@
 ##Проект "CATHup"
-##**Файлы:**
-| Syntax | Description |
+**Файлы:**
+|  | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
