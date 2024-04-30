@@ -1,7 +1,6 @@
 ##Проект "CATHup"
- - написан на Python
 ##**Файлы:**
-| 1 | Description |
+| Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
